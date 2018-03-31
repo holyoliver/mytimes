@@ -33,3 +33,29 @@ nav li{
 .logo span{
   color: MediumAquamarine;
 }
+.container{
+  display: flex;
+  padding-top: 80px;
+}
+.stories{
+  border: 2px solid black;
+}
+.large{
+  border: 2px solid black;
+  width: 630px;
+}
+.imagemain{
+  border: 1px solid black;
+}
+.medium{
+  width: 300px;
+}
+.fallimage{
+  border: 2px solid black;
+}
+.cameraimage{
+  border: 2px solid black;
+}
+.small{
+  width: 240px;
+}
